@@ -37,4 +37,4 @@ api.start()</code></pre>
 
 <h2>Licença</h2>
 
-<p>Este projeto está licenciado sob a Licença MIT - consulte o arquivo <a href="LICENSE.txt">LICENSE.txt</a> para mais detalhes.</p>
+<p>Este projeto está licenciado sob a Licença MIT - consulte o arquivo.</p>
