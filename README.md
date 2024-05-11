@@ -17,19 +17,21 @@
 <p>Para utilizar a API, basta seguir os seguintes passos:</p>
 
 <ol>
-  <li>Instale a API utilizando o pip:</li>
-  
-  <pre><code>pip install double-blaze-api</code></pre>
-  
-  <li>Configure suas credenciais para acesso ao Telegram e inicie a API:</li>
-  
-  <pre><code>from double_blaze_api import DoubleBlazeAPI
-
-api = DoubleBlazeAPI(api_key='SUA_CHAVE_API_DO_TELEGRAM', chat_id='ID_DO_SEU_GRUPO_NO_TELEGRAM')
-api.start()</code></pre>
-  
-  <li>Agora a API está pronta para acessar os dados do jogo na Blaze e enviar sinais para o Telegram.</li>
+  <li>Instale as bibliotecas necessárias utilizando o pip:</li>
 </ol>
+
+<pre><code>pip install selenium
+pip install pytelegrambotapi
+pip install webdriver
+pip install webdriver-manager
+pip install beautifulsoup4
+</code></pre>
+
+<p>Configure suas credenciais para acesso ao Telegram:</p>
+
+<pre><code>api_key = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX' # Token do Bot
+chat_id = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX' # ID Do Canal
+</code></pre>
 
 <h2>Contribuição</h2>
 
@@ -38,3 +40,4 @@ api.start()</code></pre>
 <h2>Licença</h2>
 
 <p>Este projeto está licenciado sob a Licença MIT - consulte o arquivo.</p>
+
