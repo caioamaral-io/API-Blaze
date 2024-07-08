@@ -22,7 +22,6 @@
 
 <pre><code>pip install selenium
 pip install pytelegrambotapi
-pip install webdriver
 pip install webdriver-manager
 pip install beautifulsoup4
 </code></pre>
