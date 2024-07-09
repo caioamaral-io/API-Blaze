@@ -38,5 +38,5 @@ chat_id = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX' # ID Do Canal
 
 <h2>Licença</h2>
 
-<p>Este projeto está licenciado sob a Licença MIT - consulte o arquivo.</p>
+<p>Este projeto está licenciado de forma privativa. Todos os direitos são reservados ao autor e não é permitido o uso, modificação ou distribuição sem permissão explícita.</p>
 
