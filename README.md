@@ -12,26 +12,6 @@
   <li><strong>Suporte a múltiplos gales:</strong> A API suporta múltiplos gales e estratégias de gestão, permitindo uma operação flexível e personalizável.</li>
 </ul>
 
-<h2>Como Usar</h2>
-
-<p>Para utilizar a API, basta seguir os seguintes passos:</p>
-
-<ol>
-  <li>Instale as bibliotecas necessárias utilizando o pip:</li>
-</ol>
-
-<pre><code>pip install selenium
-pip install pytelegrambotapi
-pip install webdriver-manager
-pip install beautifulsoup4
-</code></pre>
-
-<p>Configure suas credenciais para acesso ao Telegram:</p>
-
-<pre><code>api_key = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX' # Token do Bot
-chat_id = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX' # ID Do Canal
-</code></pre>
-
 <h2>Licença</h2>
 
 <p>Este projeto está licenciado sob a Licença MIT com o seguinte <strong>adendo à Licença MIT/BSD</strong>:</p>
