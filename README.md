@@ -32,11 +32,13 @@ pip install beautifulsoup4
 chat_id = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX' # ID Do Canal
 </code></pre>
 
-<h2>Contribuição</h2>
-
-<p>Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar esta API.</p>
-
 <h2>Licença</h2>
 
-<p>Este projeto está licenciado de forma privativa. Todos os direitos são reservados ao autor e não é permitido o uso, modificação ou distribuição sem permissão explícita.</p>
+<p>Este projeto está licenciado sob a Licença MIT com o seguinte <strong>adendo à Licença MIT/BSD</strong>:</p>
+
+<pre><code>
+Adendo à Licença MIT/BSD:
+
+Este software é licenciado para uso exclusivo pelo autor. Nenhuma parte deste código-fonte pode ser reproduzida, modificada ou distribuída sem a autorização expressa do autor.
+</code></pre>
 
