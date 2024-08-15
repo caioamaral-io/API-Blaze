@@ -19,6 +19,6 @@
 <pre><code>
 Adendo à Licença MIT/BSD:
 
-Este software é licenciado para uso exclusivo pelo autor. Nenhuma parte deste código-fonte pode ser reproduzida, modificada ou distribuída sem a autorização expressa do autor.
+Este software é licenciado para uso exclusivo pelo autor. Nenhuma parte deste código-fonte pode ser reproduzida, utilizada, modificada ou distribuída sem a autorização expressa do autor.
 </code></pre>
 
