@@ -14,10 +14,10 @@
 
 <h2>Licença</h2>
 
-<p>Este projeto está licenciado sob a Licença MIT com o seguinte <strong>adendo à Licença MIT/BSD</strong>:</p>
+<p>Este projeto está licenciado sob a <strong>Licença RESTRITIVA</strong>:</p>
 
 <pre><code>
-Adendo à Licença MIT/BSD:
+LICENÇA RESTRITIVA :
 
 Este software é licenciado para uso exclusivo pelo autor. Nenhuma parte deste código-fonte pode ser reproduzida, utilizada, modificada ou distribuída sem a autorização expressa do autor.
 </code></pre>
