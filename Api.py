@@ -10,8 +10,8 @@ from selenium.common.exceptions import StaleElementReferenceException, TimeoutEx
 from webdriver_manager.chrome import ChromeDriverManager
 
 # Configurações do bot Telegram
-api_key = '?????????????????????????'
-chat_id = '????????'
+api_key = 'xxxxxxxxx'
+chat_id = 'xxxxxxxxx'
 bot = telebot.TeleBot(token=api_key)
 
 # Configurações do Selenium
@@ -83,7 +83,7 @@ GREEN ✅✅✅✅
 ( 🔴 )
                     ''')
                     return
-                if num[-1] == 'B':  # Verifica se a última entrada é branca ('B')
+                if num[-1] == 'B':  
                     analisar = False
                     gale_atual = 0
                     enviar_mensagem('''
@@ -112,7 +112,7 @@ GREEN ✅✅✅✅
 ( 🔴 )
                     ''')
                     return
-                if num[-1] == 'B':  # Verifica se a última entrada é branca ('B')
+                if num[-1] == 'B':  
                     analisar = False
                     gale_atual = 0
                     enviar_mensagem('''
@@ -141,7 +141,7 @@ GREEN ✅✅✅✅
 ( 🔴 )
                     ''')
                     return
-                if num[-1] == 'B':  # Verifica se a última entrada é branca ('B')
+                if num[-1] == 'B':  
                     analisar = False
                     gale_atual = 0
                     enviar_mensagem('''
